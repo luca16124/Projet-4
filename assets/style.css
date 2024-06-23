@@ -94,6 +94,13 @@ body {
 	font-size: 14px;
 }
 
+.slider{
+	position: relative;
+	left: 0;
+	right: 0;
+	height: 500px;
+}
+
 #gallery {
 	/*	min-height: 100vh; */
 }
