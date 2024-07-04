@@ -117,6 +117,10 @@ body {
 	cursor: pointer;
 }
 
+.nav-pills:hover{
+	background-color: #BEB45A;
+	color: white;
+}
 
 .nav-li:hover{
 	color: #000;
