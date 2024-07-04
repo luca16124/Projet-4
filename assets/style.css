@@ -60,10 +60,6 @@ body {
 	z-index: -1;
 }
 
-.carousel{
-	height: 500px;
-}
-
 .picture {
 	flex: 1;
 	margin: 0 20px;
@@ -98,7 +94,7 @@ body {
 	position: relative;
 	left: 0;
 	right: 0;
-	height: 500px;
+	height: 900px;
 }
 
 #gallery {
