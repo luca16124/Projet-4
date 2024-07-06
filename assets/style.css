@@ -117,13 +117,14 @@ body {
 	cursor: pointer;
 }
 
-.nav-pills:hover{
-	background-color: #BEB45A;
-	color: white;
-}
 
 .nav-li:hover{
 	color: #000;
+}
+
+.nav-item.active:focus .nav-item.active:active .nav-item.active:hover{
+	background-color: #BEB45A;
+	color: #fff;
 }
 
 .item-column {
