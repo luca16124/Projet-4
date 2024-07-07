@@ -379,3 +379,18 @@ input[type="submit"] {
 	}
 }
 
+/* CSS FOOTER */
+footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	text-align: center;
+	background-color: blanchedalmond;
+}
+
+footer li {
+	list-style: none;
+}
